@@ -35,7 +35,7 @@ function Projects() {
               imgPath={wiki}
               isBlog={false}
               title="Wikipedia API"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="This is API Project"
               ghLink=""
               demoLink="https://m-orziboyev.github.io/wikipedia-api/"
             />
